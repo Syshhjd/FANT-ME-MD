@@ -1,20 +1,20 @@
-# Zokou-2.0 🚀
+# FANTÔME 👻
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you!
+FANTOME is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, FANTÔME is here to assist you!
 
 ## Key Features ✨
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
+- **File Download:** FANTÔME can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou. 😄✨
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to FANTÔME. 😄✨
 
-- **Group Management:** Zokou offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
+- **Group Management:** FANTÔME offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
 
 - **Text to Image:** The best logos have been selected for your convenience. 🖼️🎨
 
 ## Fun Features 🎉
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
+- **Jokes and Riddles:** FANTOME comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
 
 - **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
 
@@ -27,7 +27,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 - [Session-1](https://zkscan.onrender.com)  
 - [Session-2](https://zokouscan.onrender.com)  
 
-3. Deploy Zokou
+3. Deploy FANTÔME
 - **Heroku Deployment:**
 1. If you don’t have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
 2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
@@ -42,7 +42,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
 2. Create a new web service.  
 3. Choose **Existing Image**.  
-4. In the **Image URL** field, enter `docker.io/luffy077/zokouve:latest`.
+4. In the **Image URL** field, enter `docker.io/Sukuna/FANTOME:latest`.
 5. Click **Connect**.  
 6. Select the **Free Plan** if you don’t want to pay.
 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
@@ -52,15 +52,15 @@ PREFIX=.
 AUTO_READ_STATUS=yes
 AUTO_DOWNLOAD_STATUS=yes
 PM_PERMIT=no
-BOT_NAME=Zokou-MD
-BOT_MENU_LINKS=https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg
-PUBLIC_MODE=yes
+BOT_NAME=FANTÔME
+BOT_MENU_LINKS= https://files.catbox.moe/us1b93.jpg
+PUBLIC_MODE=No
 DATABASE_URL=postgresql://postgres:taajrTrRWXxhFYHuAKclPaWlsxCMFzLT@junction.proxy.rlwy.net:57114/railway
-OWNER_NAME=Djalega++
-NUMERO_OWNER=22891733300
+OWNER_NAME=Noir X
+NUMERO_OWNER=2250501889640
 WARN_COUNT=3
 STARTING_BOT_MESSAGE=yes
-PRESENCE=1
+PRESENCE=2
 PM_CHATBOT=no
 SESSION_ID='zokk'
 ANTI_VIEW_ONCE="yes"
@@ -121,7 +121,7 @@ jobs:
 
 ## Contributions 🤝
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. 🙌
+Contributions to FANTÔME are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. 🙌
 
 Special thanks to:
 
@@ -130,11 +130,11 @@ Special thanks to:
 
 ## License 📜
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot FANTÔME is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of Zokou to enhance your WhatsApp experience! 💬🎉
+Enjoy the diverse features of FANTÔME to enhance your WhatsApp experience! 💬🎉
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [**Noir X++**](https://github.com/djalega8000/Zokou-MD/)
+- [**᚛亗🜲 𝚵𝚳𝚸𝚵𝚪𝚯𝚪𓃰𝐒𝐔𝐊𝐔𝚴𝚫 🜲 —͟͟͞͞𖣘᚜**](https://github.com/Faouz995)
