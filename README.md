@@ -18,7 +18,7 @@ FANTOME is a multi-device bot designed to enhance your WhatsApp conversations wi
 
 - **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
 
-## How to Get Zokou 🛠️
+## How to Get FANTÔME 🛠️
 
 1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
 
